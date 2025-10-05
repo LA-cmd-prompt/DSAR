@@ -2,7 +2,7 @@
 Data Subject Access Rights
 # DSAR Automation Case Study
 
-## 📌 Overview
+## Overview
 This repository demonstrates how a company can automate **Data Subject Access Requests (DSARs)** — user requests to access, correct, or delete their personal data.  
 
 Under:
@@ -14,7 +14,7 @@ Automation reduces human error, speeds up responses, and ensures compliance with
 
 ---
 
-## 🛠️ Workflow
+## Workflow
 
 1. **Intake**: User submits DSAR via web form.  
 2. **Verification**: System verifies identity (email token / ID check).  
