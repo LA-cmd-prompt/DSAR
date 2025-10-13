@@ -58,7 +58,7 @@ def log_dsar(requester_name, request_type, email):
         
         writer.writerow(entry)
     
-    print(f"✅ DSAR logged for {requester_name} ({request_type}) due by {due_date}")
+    print(f" DSAR logged for {requester_name} ({request_type}) due by {due_date}")
 
 # Example usage
 log_dsar("Jane Doe", "Access Request", "jane.doe@email.com")
@@ -73,10 +73,6 @@ log_dsar("Jane Doe", "Access Request", "jane.doe@email.com")
 
 ---
 
-## 🎯 Why This Matters
-- **For Clients:** Demonstrates ability to operationalize compliance, not just write policies.  
-- **For Hiring Managers:** Shows technical + legal integration — you understand DSAR rights *and* can translate them into workflows/tools.  
-- **For Peers:** A practical framework others can adapt.  
 
 ---
 
