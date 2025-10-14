@@ -26,8 +26,7 @@ Automation reduces human error, speeds up responses, and ensures compliance with
 📸 See `workflow-diagram.png` for the full process.
 
 ---
-import csv
-from datetime import datetime, timedelta
+
 
 # File where DSARs will be logged
 TRACKER_FILE = "dsar-log.csv"
