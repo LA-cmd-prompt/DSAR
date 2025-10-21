@@ -24,32 +24,32 @@ Automation reduces human error, speeds up responses, and ensures compliance with
 6. **Record-Keeping**: Request logged in DSAR Register (PIPEDA requires accountability).  
 
 <h2> DSAR flow Visualization</h2>
-<p align="center">
-  <img src="./images-.gitkeep/blob/main/DSAR_1.JPEG" width="800" alt="Step 1 - Intake">
-</p>
-<p align="center">
-  <img src="./images-.gitkeep/blob/main/DSAR_2.JPEG" width="800" alt="Step 2 - Verification">
-</p>
-<p align="center">
-  <img src="./images-.gitkeep/blob/main/DSAR_3.JPEG" width="800" alt="Step 3 - Triage">
-</p>
-<p align="center">
-  <img src="./images-.gitkeep/blob/main/DSAR_4.JPEG" width="800" alt="Step 4 - Fulfilment">
-</p>
-<p align="center">
-  <img src="./images-.gitkeep/blob/main/DSAR_5.JPEG" width="800" alt="Step 5 - Response">
-</p>
-<p align="center">
-  <img src="./images-.gitkeep/blob/main/DSAR_6.JPEG" width="800" alt="Step 6 - Record-Keeping">
-</p>
+<h2 align="center"> DSAR Automation Visual Walkthrough</h2>
 
-📸 See [Work Flow Diagram](https://github.com/LA-cmd-prompt/images-.gitkeep/blob/main/DSAR_1.JPEG)
-[Work Flow Diagram](https://github.com/LA-cmd-prompt/images-.gitkeep/blob/main/DSAR_2.JPEG)
-[Work Flow Diagram](https://github.com/LA-cmd-prompt/images-.gitkeep/blob/main/DSAR_3.JPEG)
-[Work Flow Diagram](https://github.com/LA-cmd-prompt/images-.gitkeep/blob/main/DSAR_4.JPEG)
-[Work Flow Diagram](https://github.com/LA-cmd-prompt/images-.gitkeep/blob/main/DSAR_5.JPEG)
-[Work Flow Diagram](https://github.com/LA-cmd-prompt/images-.gitkeep/blob/main/DSAR_6.JPEG)
 
+<figure style="text-align:center">
+  <img src="[https://raw.githubusercontent.com/LA-cmd-prompt/images-.gitkeep/main/DSAR_4.JPEG](https://github.com/LA-cmd-prompt/images-.gitkeep/blob/main/DSAR_4.JPEG)" width="800" 
+
+<figure style="text-align:center">
+  <img src="https://raw.githubusercontent.com/LA-cmd-prompt/images-.gitkeep/main/DSAR_1.JPEG" width="800" 
+    <figure style="text-align:center">
+  <img src="https://raw.githubusercontent.com/LA-cmd-prompt/images-.gitkeep/main/DSAR_2.JPEG" width="800" 
+    <figure style="text-align:center">
+  <img src="https://raw.githubusercontent.com/LA-cmd-prompt/images-.gitkeep/main/DSAR_3.JPEG" width="800" 
+    <figure style="text-align:center">
+  <img src="https://raw.githubusercontent.com/LA-cmd-prompt/images-.gitkeep/main/DSAR_4.JPEG" width="800" 
+    <figure style="text-align:center">
+  <img src="https://raw.githubusercontent.com/LA-cmd-prompt/images-.gitkeep/main/DSAR_5.JPEG" width="800" 
+    <figure style="text-align:center">
+  <img src="https://raw.githubusercontent.com/LA-cmd-prompt/images-.gitkeep/main/DSAR_6.JPEG" width="800" 
+   
+
+<hr>
+
+
+
+
+<p align="center"><b>Each step reflects a stage in the DSAR automation lifecycle — from intake to closure — demonstrating both operational flow and privacy compliance checkpoints under PIPEDA and GDPR.</i></p>
 
 
 
