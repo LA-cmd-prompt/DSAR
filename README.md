@@ -3,7 +3,7 @@ Data Subject Access Rights
 # DSAR Automation Case Study
 
 ## Overview
-This repository demonstrates how a company can automate **Data Subject Access Requests (DSARs)** — user requests to access, correct, or delete their personal data.  
+This repository demonstrates how a company can respond to **Data Subject Access Requests (DSARs)** — user requests to access, correct, or delete their personal data.  
 
 Under:
 - **PIPEDA**: Individuals have the right to access and correct their personal information.  
@@ -92,7 +92,14 @@ log_dsar("Jane Doe", "Access Request", "jane.doe@email.com")
 
 ## 📂 Key Deliverables
 
-- **`dsar-form-template.html`** → Sample intake form for users.  
+- **`dsar-form-template.html`** → Sample intake form for users.
+- <figure style="text-align:center">
+  <img src="https://github.com/LA-cmd-prompt/images-.gitkeep/blob/main/DSAR%20FORM_1.JPEG" width="800" 
+    <figure style="text-align:center">
+  <img src="https://github.com/LA-cmd-prompt/images-.gitkeep/blob/main/DSAR%20FORM_2.JPEG" width="800" 
+    <figure style="text-align:center">
+  <img src="https://github.com/LA-cmd-prompt/images-.gitkeep/blob/main/DSAR%20FORM_3.JPEG" width="800" 
+   
 - **`dsar-intake-script.py`** → Mock Python script logging DSARs into a tracker.  
 - **`dsar-response-template.md`** → Standardized letter for fulfilling access/deletion requests.  
 - **`dsar-tracker.xlsx`** → Excel tool to monitor DSARs (status, due dates, system owner).  
