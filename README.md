@@ -1,6 +1,6 @@
 # DSAR
 Data Subject Access Rights
-# DSAR Automation Case Study
+# DSAR Case Study
 
 ## Overview
 This repository demonstrates how a company can respond to **Data Subject Access Requests (DSARs)** — user requests to access, correct, or delete their personal data.  
@@ -10,7 +10,6 @@ Under:
 - **GDPR**: Articles 12–22 grant access, rectification, deletion, and portability rights.  
 - **CPRA (California)**: Expands access and deletion rights for consumers.  
 
-Automation reduces human error, speeds up responses, and ensures compliance with strict deadlines.
 
 ---
 
@@ -24,7 +23,7 @@ Automation reduces human error, speeds up responses, and ensures compliance with
 6. **Record-Keeping**: Request logged in DSAR Register (PIPEDA requires accountability).  
 
 <h2> DSAR flow Visualization</h2>
-<h2 align="center"> DSAR Automation Visual Walkthrough</h2>
+<h2 align="center"> DSAR Automation Visual Workflow</h2>
 
 
 <figure style="text-align:center">
@@ -54,41 +53,6 @@ Automation reduces human error, speeds up responses, and ensures compliance with
 
 
 ---
-
-
-# File where DSARs will be logged
-TRACKER_FILE = "dsar-log.csv"
-
-def log_dsar(requester_name, request_type, email):
-    """Logs a DSAR into the tracker with due date (30 days under PIPEDA)."""
-    
-    # Set due date (30 days from today)
-    due_date = (datetime.now() + timedelta(days=30)).strftime("%Y-%m-%d")
-    
-    # Create log entry
-    entry = {
-        "Date Received": datetime.now().strftime("%Y-%m-%d"),
-        "Requester": requester_name,
-        "Email": email,
-        "Request Type": request_type,
-        "Status": "Open",
-        "Due Date": due_date
-    }
-    
-    # Append entry to CSV file
-    with open(TRACKER_FILE, mode="a", newline="") as file:
-        writer = csv.DictWriter(file, fieldnames=entry.keys())
-        
-        # Write header if file is empty
-        if file.tell() == 0:
-            writer.writeheader()
-        
-        writer.writerow(entry)
-    
-    print(f" DSAR logged for {requester_name} ({request_type}) due by {due_date}")
-
-# Example usage
-log_dsar("Jane Doe", "Access Request", "jane.doe@email.com")
 
 ## 📂 Key Deliverables
 
