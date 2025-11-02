@@ -71,11 +71,11 @@ Under:
 
 Standardized letter templates for fulfilling Data Subject Access Requests (DSAR) under PIPEDA, GDPR, and other privacy regulations.
 
-## 📋 Overview
+## Overview
 
 This repository contains high-level, compliant response templates for handling various types of DSARs including access requests, deletion requests, correction requests, and objection requests. Each template is designed to meet regulatory requirements while maintaining clear, respectful communication with data subjects.
 
-## 📁 Template Library
+## Template Library
 
 ### 1. Access Request Response
 **File:** `access-request-response.docx`
@@ -202,7 +202,7 @@ This repository contains high-level, compliant response templates for handling v
 
 ---
 
-## 📝 Template Components
+## Template Components
 
 Each template includes the following standard sections:
 
@@ -481,7 +481,7 @@ Before sending your response, verify:
 
 ---
 
-## ⚖️ Legal Disclaimer
+## Legal Disclaimer
 
 These templates are provided for informational and educational purposes only and should not be considered legal advice. Organizations should:
 
@@ -513,7 +513,7 @@ These templates should be reviewed and updated annually or whenever privacy laws
 
 ---
 
-## 📄 Version History
+## Version History
 
 - **v1.0** (2025-01-27) - Initial template release
   - Access request response template
