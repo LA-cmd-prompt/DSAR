@@ -65,7 +65,8 @@ Under:
   <img src="https://github.com/LA-cmd-prompt/images-.gitkeep/blob/main/DSAR%20FORM_3.JPEG" width="800" 
    
 
-  # DSAR Response Templates
+
+## DSAR Response Templates
 
 Standardized letter templates for fulfilling Data Subject Access Requests (DSAR) under PIPEDA, GDPR, and other privacy regulations.
 
