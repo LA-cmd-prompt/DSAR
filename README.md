@@ -64,8 +64,6 @@ Under:
     <figure style="text-align:center">
   <img src="https://github.com/LA-cmd-prompt/images-.gitkeep/blob/main/DSAR%20FORM_3.JPEG" width="800" 
    
-- **`dsar-intake-script.py`** → Mock Python script logging DSARs into a tracker.  
-- **`dsar-response-template.md`** → Standardized letter for fulfilling access/deletion requests.
 
   # DSAR Response Templates
 
