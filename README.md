@@ -54,9 +54,9 @@ Under:
 
 ---
 
-## 📂 Key Deliverables
+##  Key Deliverables
 
-- **`dsar-form-template.html`** → Sample intake form for users.
+- **** → Sample intake form for users.
 - <figure style="text-align:center">
   <img src="https://github.com/LA-cmd-prompt/images-.gitkeep/blob/main/DSAR%20FORM_1.JPEG" width="800" 
     <figure style="text-align:center">
@@ -253,7 +253,7 @@ Replace these placeholders in each template:
 
 ---
 
-## 📖 Sample Template: Access Request Response
+## Sample Template: Access Request Response
 ```
 [COMPANY LETTERHEAD]
 
@@ -435,7 +435,7 @@ Before sending your response, verify:
 
 ---
 
-## 🌍 Jurisdictional Considerations
+## Jurisdictional Considerations
 
 ### Canada (PIPEDA)
 - **Timeline:** 30 days (extendable to 60 days for complex requests)
@@ -459,7 +459,7 @@ Before sending your response, verify:
 
 
 
-## 📚 Additional Resources
+##  Additional Resources
 
 ### Regulatory Guidance
 - **PIPEDA:** [Office of the Privacy Commissioner of Canada](https://www.priv.gc.ca)
@@ -498,7 +498,7 @@ Each DSAR is unique and may require modifications to these standard templates ba
 
 ---
 
-## 📧 Contact & Support
+## Contact & Support
 
 **Questions about these templates?**
 - Review your organization's privacy policy
